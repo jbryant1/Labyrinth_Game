@@ -1,17 +1,14 @@
-package com.mygdx.game;
+package com.mygdx.game.TestEnvironments;
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
-import com.badlogic.gdx.math.Vector2;
 import com.badlogic.gdx.scenes.scene2d.Stage;
-import com.mygdx.game.Classes.Tile;;
 
-import java.util.ArrayList;
-import java.util.List;
-
-public class MainGame extends ApplicationAdapter {
+;
+//Template to copy from for more test environments
+public class MainGameTemplate extends ApplicationAdapter {
     SpriteBatch batch;
 
 
